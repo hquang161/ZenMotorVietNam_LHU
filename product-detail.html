@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi Tiết Sản Phẩm - ZenMotorVietNam</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><h1>ZenMotorVietNam</h1></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="products.html">Sản phẩm</a></li>
+                <li><a href="about.html">Giới thiệu</a></li>
+                <li><a href="contact.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="product-detail-page">
+        <div class="breadcrumb">
+            <a href="index.html">Trang chủ</a> >
+            <a href="products.html">Sản phẩm</a> >
+            <span id="product-name">Tên sản phẩm</span>
+        </div>
+    
+        <div class="product-detail-container">
+            <div class="product-gallery">
+                <div class="main-image">
+                    <img id="main-product-image" src="" alt="Sản phẩm">
+                </div>
+                <div class="thumbnail-list" id="thumbnail-list">
+                    <!-- Thumbnails will be added by JavaScript -->
+                </div>
+            </div>
+    
+            <div class="product-info">
+                <h1 id="detail-product-name"></h1>
+                <div class="product-meta">
+                    <p class="product-brand">Thương hiệu: <span id="detail-brand"></span></p>
+                    <p class="product-category">Danh mục: <span id="detail-category"></span></p>
+                </div>
+                <div class="product-price" id="detail-price"></div>
+                
+                <div class="product-specs">
+                    <h3>Thông số kỹ thuật</h3>
+                    <ul>
+                        <li>Pin: <span id="detail-battery"></span></li>
+                        <li>Quãng đường: <span id="detail-range"></span></li>
+                    </ul>
+                </div>
+    
+                <div class="product-description">
+                    <h3>Mô tả sản phẩm</h3>
+                    <p id="detail-description"></p>
+                </div>
+    
+                <div class="product-actions">
+                    <button class="btn-contact">
+                        <i class="fas fa-phone"></i> Liên hệ tư vấn
+                    </button>
+                    <button class="btn-showroom">
+                        <i class="fas fa-map-marker-alt"></i> Xem tại showroom
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="related-products">
+            <h2>Sản phẩm tương tự</h2>
+            <div id="related-products-grid" class="product-grid">
+                <!-- Related products will be added by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Về Chúng Tôi</h3>
+                <p>Chuyên cung cấp các loại xe đạp điện chất lượng cao, thân thiện với môi trường.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Liên Hệ</h3>
+                <p><i class="fas fa-phone"></i> 0123 456 789</p>
+                <p><i class="fas fa-envelope"></i> contact@zenmotor.com.vn</p>
+                <p><i class="fas fa-map-marker-alt"></i> 123 Đường ABC, Quận XYZ, TP.HCM</p>
+            </div>
+            <div class="footer-section">
+                <h3>Theo Dõi</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 ZenMotorVietNam. Tất cả quyền được bảo lưu.</p>
+        </div>
+    </footer>
+
+    <script src="data/products.js"></script>
+    <script src="assets/js/detail.js"></script>
+</body>
+</html>

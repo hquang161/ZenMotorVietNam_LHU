@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xe Đạp Điện - Giải Pháp Di Chuyển Xanh</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><h1>ZenMotorVietNam</h1></a>
+            </div>
+            <button class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Trang Chủ</a></li>
+                <li><a href="products.html">Sản Phẩm</a></li>
+                <li><a href="about.html">Giới Thiệu</a></li>
+                <li><a href="contact.html">Liên Hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section with Slider -->
+        <section class="hero-slider">
+            <div class="swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./assets/img/slide1.jpg" alt="Slide 1">
+                        <div class="slide-content">
+                            <h2>Xe Đạp Điện Chất Lượng Cao</h2>
+                            <p>Giải pháp di chuyển thông minh và thân thiện môi trường</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/slide2.jpg" alt="Slide 2">
+                        <div class="slide-content">
+                            <h2>Công Nghệ Tiên Tiến</h2>
+                            <p>Trải nghiệm công nghệ mới nhất trong ngành xe điện</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </section>
+
+        <!-- Featured Products -->
+        <section id="featured" class="featured-products">
+            <h2 class="section-title">Sản Phẩm Nổi Bật</h2>
+            <div id="featured-products" class="product-grid"></div>
+            <div class="view-all-container">
+                <a href="products.html" class="view-all-btn">Xem tất cả sản phẩm</a>
+            </div>
+        </section>
+
+        <!-- All Products -->
+        <section id="products" class="all-products">
+            <h2 class="section-title">Tất Cả Sản Phẩm</h2>
+            <div class="filters">
+                <select id="brand-filter">
+                    <option value="">Tất cả thương hiệu</option>
+                </select>
+                <select id="category-filter">
+                    <option value="">Tất cả danh mục</option>
+                </select>
+            </div>
+            <div id="product-list" class="product-grid"></div>
+            <div id="load-more-container" class="load-more-container">
+                <button id="load-more-btn" class="load-more-btn">Xem Thêm</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Về Chúng Tôi</h3>
+                <p>Chuyên cung cấp các loại xe đạp điện chất lượng cao, thân thiện với môi trường.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Liên Hệ</h3>
+                <p><i class="fas fa-phone"></i> 0123 456 789</p>
+                <p><i class="fas fa-envelope"></i> contact@zenmotor.com.vn</p>
+                <p><i class="fas fa-map-marker-alt"></i> 123 Đường ABC, Quận XYZ, TP.HCM</p>
+            </div>
+            <div class="footer-section">
+                <h3>Theo Dõi</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 ZenMotorVietNam. Tất cả quyền được bảo lưu.</p>
+        </div>
+    </footer>
+
+    <script src="assets/js/menu.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <script src="data/products.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
