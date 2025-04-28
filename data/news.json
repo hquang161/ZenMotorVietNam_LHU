@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "VinFast ra mắt xe đạp điện thông minh tại Việt Nam",
+      "date": "2025-03-10",
+      "image": "img/vinfast_bike_launch.jpg",
+      "content": "VinFast vừa công bố dòng xe đạp điện thông minh với thiết kế hiện đại, tích hợp công nghệ AI. Xe có khả năng kết nối với smartphone, giúp người dùng theo dõi tình trạng pin, quãng đường đi và các chế độ lái khác nhau. Đây được xem là bước tiến lớn trong ngành xe đạp điện tại Việt Nam."
+    },
+    {
+      "id": 2,
+      "title": "Honda giới thiệu phiên bản mới của U-Go",
+      "date": "2025-03-08",
+      "image": "img/honda_u_go_new.jpg",
+      "content": "Honda vừa ra mắt phiên bản nâng cấp của dòng xe điện U-Go với phạm vi di chuyển lên đến 100km một lần sạc. Xe được trang bị động cơ mạnh mẽ hơn, thiết kế gọn nhẹ phù hợp với đô thị, đồng thời cải thiện khả năng chống nước để thích nghi với điều kiện thời tiết tại Việt Nam."
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Himo C26 – lựa chọn mới cho dân thể thao",
+      "date": "2025-03-05",
+      "image": "img/xiaomi_himo_c26_review.jpg",
+      "content": "Himo C26 của Xiaomi là mẫu xe đạp điện hướng đến người yêu thích thể thao với khung xe chắc chắn, thiết kế thể thao và động cơ mạnh mẽ. Xe có thể hoạt động ở chế độ trợ lực hoặc hoàn toàn bằng điện, giúp người dùng có trải nghiệm linh hoạt trên nhiều địa hình khác nhau."
+    },
+    {
+      "id": 4,
+      "title": "Thị trường xe đạp điện bùng nổ năm 2025",
+      "date": "2025-03-01",
+      "image": "img/electric_bike_market.jpg",
+      "content": "Theo báo cáo mới nhất, nhu cầu sử dụng xe đạp điện đang tăng mạnh do giá xăng dầu tăng cao và xu hướng sống xanh. Nhiều hãng xe lớn như VinFast, Giant, Honda và Trek đang đẩy mạnh sản xuất để đáp ứng thị trường. Dự báo, số lượng xe đạp điện bán ra trong năm 2025 có thể tăng gấp đôi so với năm trước."
+    },
+    {
+      "id": 5,
+      "title": "Trek Verve+ 2 – xe đạp điện đường trường đáng mua",
+      "date": "2025-02-27",
+      "image": "img/trek_verve_plus_2_review.jpg",
+      "content": "Trek Verve+ 2 là một trong những mẫu xe đạp điện được đánh giá cao nhờ thiết kế tiện dụng, động cơ bền bỉ và pin có dung lượng lớn. Xe phù hợp với những ai thích đi du lịch đường dài, giúp tiết kiệm sức lực mà vẫn đảm bảo tốc độ ổn định."
+    },
+    {
+      "id": 6,
+      "title": "Giant ra mắt dòng xe đạp điện mới với pin siêu bền",
+      "date": "2025-02-25",
+      "image": "img/giant_new_model.jpg",
+      "content": "Giant vừa giới thiệu một mẫu xe đạp điện mới với công nghệ pin lithium tiên tiến, có thể sử dụng lên đến 150km sau một lần sạc. Hệ thống phanh đĩa cải tiến giúp xe an toàn hơn khi di chuyển trên các địa hình phức tạp."
+    },
+    {
+      "id": 7,
+      "title": "Xu hướng thiết kế xe đạp điện năm 2025",
+      "date": "2025-02-20",
+      "image": "img/electric_bike_design.jpg",
+      "content": "Các hãng xe đang tập trung vào thiết kế nhẹ, hiện đại và hiệu suất cao. Xu hướng tích hợp AI và các tính năng thông minh giúp xe đạp điện trở nên tiện ích hơn. Bên cạnh đó, các vật liệu bền vững cũng được ưu tiên sử dụng để giảm tác động đến môi trường."
+    },
+    {
+      "id": 8,
+      "title": "Cách bảo dưỡng xe đạp điện giúp tăng tuổi thọ pin",
+      "date": "2025-02-15",
+      "image": "img/battery_maintenance.jpg",
+      "content": "Việc bảo quản và sạc pin đúng cách có thể giúp tăng tuổi thọ pin xe đạp điện. Người dùng nên tránh sạc pin liên tục qua đêm, không để pin cạn kiệt hoàn toàn trước khi sạc, và bảo quản xe ở nơi khô ráo, tránh nhiệt độ quá cao hoặc quá thấp."
+    },
+    {
+      "id": 9,
+      "title": "Xiaomi chuẩn bị ra mắt mẫu xe đạp điện gấp mới",
+      "date": "2025-02-10",
+      "image": "img/xiaomi_new_foldable.jpg",
+      "content": "Xiaomi đang phát triển dòng xe đạp điện gấp gọn mới, phù hợp với người dùng thành thị. Xe có thể gấp lại chỉ trong vài giây, thuận tiện khi mang lên xe bus hoặc tàu điện. Mẫu xe này dự kiến ra mắt vào quý 2 năm 2025."
+    },
+    {
+      "id": 10,
+      "title": "Chính sách trợ giá xe đạp điện tại Việt Nam",
+      "date": "2025-02-05",
+      "image": "img/government_policy.jpg",
+      "content": "Chính phủ Việt Nam đang triển khai chính sách trợ giá cho xe đạp điện nhằm khuyến khích người dân sử dụng phương tiện xanh. Các dòng xe đạt tiêu chuẩn về an toàn và môi trường sẽ được hưởng ưu đãi thuế và hỗ trợ mua xe với giá ưu đãi."
+    }
+  ]
