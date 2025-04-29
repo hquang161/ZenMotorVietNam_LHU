@@ -53,7 +53,7 @@ const products = [
   {
     "id": 4,
     "name": "Honda U-Go",
-    "price": "13,900,000 VND",
+    "price": "8,590,000 VND",
     "image": "assets/img/product04(1).jpg",
     "images": [
       "assets/img/product04(1).jpg",
