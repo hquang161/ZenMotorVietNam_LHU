@@ -2,7 +2,7 @@ const products = [
   {
     "id": 1,
     "name": "Yadea G5",
-    "price": "13,900,000 VND",
+    "price": "13,990,000 VND",
     "image": "assets/img/produc01(1).jpg",
     "images": [
       "assets/img/produc01(1).jpg",
@@ -19,7 +19,7 @@ const products = [
   {
     "id": 2,
     "name": "Pega NewTech",
-    "price": "13.900.000 VND",
+    "price": "13,990,000 VND",
     "image": "assets/img/produc02(1).jpg",
     "images": [
       "assets/img/produc02(1).jpg",
@@ -35,7 +35,7 @@ const products = [
   {
     "id": 3,
     "name": "Dibao Jeek 1",
-    "price": "21,500,000 VND",
+    "price": "11,500,000 VND",
     "image": "assets/img/product03(1).jpg",
     "images": [
       "assets/img/product03(1).jpg",
@@ -71,7 +71,7 @@ const products = [
   {
     "id": 5,
     "name": "Honda Cub e:",
-    "price": "13,900,000 VND",
+    "price": "13,990,000 VND",
     "image": "assets/img/product05(1).jpg",
     "images": [
       "assets/img/product05(1).jpg",
@@ -89,7 +89,7 @@ const products = [
   {
     "id": 6,
     "name": "Giant Momentum E+",
-    "price": "13,900,000 VND",
+    "price": "13,990,000 VND",
     "image": "assets/img/product06(1).jpg",
     "images": [
       "assets/img/product06(1).jpg",
